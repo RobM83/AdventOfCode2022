@@ -1,0 +1,1 @@
+Sensor at x=-3, y=0: closest beacon is at x=1, y=3
